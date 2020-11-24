@@ -3,6 +3,10 @@ body {
     padding-top: 800px;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 #Welcome {
     background: linear-gradient(#03ecfc 10%, #03fc31 100%);
     position: absolute;
