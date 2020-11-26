@@ -1,9 +1,10 @@
 body {
     margin: 0;
     padding-top: 800px;
+    text-align: center;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -102,4 +103,12 @@ h1 {
 
 .links:hover {
     background-color: dodgerblue;
+}
+
+.Article:hover {
+    color: fuchsia;
+}
+
+.Article {
+    line-height: 1.6;
 }
